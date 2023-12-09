@@ -2,9 +2,7 @@ import "./Breadcrumb.css";
 export const Breadcrumb = () => {
   return (
     <div className="main-container-breadcrmb">
-      <p className="main-heading-breadcrumb">
-        How To Create a Breadcrumb Navigation
-      </p>
+      <p className="main-heading-breadcrumb">Breadcrumb Navigation</p>
       <div className="dreadcrumb-main-wrapper">
         <a href="#Home" className="dreadcrumb-home-links">
           Home
